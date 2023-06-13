@@ -1,6 +1,6 @@
 # resume-project-1
 "Create professional resumes effortlessly with a resume builder, saving time and ensuring a visually appealing layout for better job opportunities." 
-to visite the site please log on to :- buildresumehere.ccbp.tech
+to visit the site please log on to :- buildresumehere.ccbp.tech
 # Project Title
 
 BuildResumeHere
